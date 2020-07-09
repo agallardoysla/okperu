@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Ok Perú App",
+    "icon": "./src/images/icono.png",
+    "version": "1.0.0",
+    "slug": "okperuapp",
+    "splash": {
+      "image": "./src/images/carga.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "sdkVersion": "36.0.0",
+    "ios": {
+      "bundleIdentifier": "com.andresgallardo.okperuapp",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.andresgallardo.okperuapp",
+      "versionCode": 5,
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ]
+    },
+    "description": ""
+  }
+}
