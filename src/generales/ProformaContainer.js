@@ -17,7 +17,7 @@ const ImagenContainer = (props) => {
 						</View>
 					</TouchableWithoutFeedback>
 				</View>
-				<Image style={style.wrapper} source={require('../images/diseños/proforma2.jpg')}></Image>
+				<Image style={style.wrapper} source={require('../images/diseños/proforma.jpeg')}></Image>
 			</View>
 		</ContenedorGeneral>
 	);
